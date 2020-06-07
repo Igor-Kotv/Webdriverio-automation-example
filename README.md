@@ -3,7 +3,8 @@ My example of automation using Webdriverio
 
 ### Requirements
 
-Browser: Chrome 
+Browser: Chrome 83
+
 NodeJS: v12+
 
 ### Installation and run
